@@ -18,7 +18,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-Hi! I'm Joe. I'm a 4th year Computer Science student at the University of Glasgow. I'm currently the president of the Cyber-Security Society ([GUSEC](https://gusecurity.github.io/)) and I've got an interest for all things low-level and security.
+Hi! I'm Joe. I'm a 4th year Computer Science student at the University of Glasgow. I'm currently the president of the Cyber-Security Society ([GUSEC](https://gusecurity.github.io/)) and I've got an interest in all things low-level and security.
 
 I'm currently completing my final year project focussing on _The effect and mitigation of ELF file manipulation on software defined networks_. Completing this project has lead me down some fascinating rabbit-holes so far into the details of the runtime linker and how ELF files can be manipulated out of spec to create interesting and novel effects.
 
